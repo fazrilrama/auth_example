@@ -1,0 +1,1 @@
+import{_ as e,c as o,aa as a,o as s}from"./DbWtjmGf.js";const n={mounted(){document.body.classList.add("authentication-bg")}};function c(t,r,d,l,i,u){return s(),o("div",null,[a(t.$slots,"default")])}const _=e(n,[["render",c]]);export{_ as default};
